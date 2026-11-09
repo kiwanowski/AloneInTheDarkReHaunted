@@ -7,6 +7,8 @@
 *Copyright © 2026 Infogrames / Spacefarer Retro Remasters LLC*
 *Author: Jake Jackson (jake@spacefarergames.com)*
 
+**Now updated for Unity Engine, supports Windows, Linux, macOS, Android and more devices coming soon.**
+
 **A cross-platform engine reimplementation for the classic *Alone in the Dark* trilogy (1992–1995), with modern remaster enhancements.**
 
 OS supported with binaries - Windows (64bit) Linux (64bit) macOS 11.3 (64bit)
